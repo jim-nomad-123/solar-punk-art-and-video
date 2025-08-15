@@ -1,4 +1,4 @@
-# Solar Punk Art and Video
+# Solarpunk Art and Video
 An entry to NS Solarpunk Art Contest
 
 ## Description
