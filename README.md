@@ -24,7 +24,7 @@ A holistic artwork image is shown, followed by video segments playing through a 
 
 ## Files
 - 'Solarpunk -  Spring Summer Autumn Winter Spring Again.mp4': Main art video file
-- 'prompts.rtf': prompts used
+- 'prompts.rtf': Prompts used
 - 'images/': Image files 
 - 'clips/': Video clip animation files
 - 'audio/': Background track 
