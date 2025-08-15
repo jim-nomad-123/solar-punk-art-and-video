@@ -5,11 +5,15 @@ An entry to NS Solarpunk Art Contest
 This piece of art takes inspiration from Kim Ki-duk’s film “Spring, Summer, Fall, Winter…and Spring” (https://en.wikipedia.org/wiki/Spring,_Summer,_Fall,_Winter..._and_Spring) but with a tech-optimist and solarpunk theme. Instead of displaying a macro solarpunk city, it goes into the micro view to tell the story of three people whose lives progress through the spring, summer, autumn, winter, and regenerative spring of a solarpunk society.
 
 A holistic artwork image is shown, followed by video segments playing through a solarpunk instrumental tune:
-Spring: A lush, futuristic eco-city rooftop garden where three tech-optimist children joyfully plant seedlings in tall vertical planters.
-Summer: A vibrant solarpunk summer afternoon in a lush eco-city. The three friends are now young adults who share a joyful outdoor meal at a wooden table surrounded by greenery, fresh fruit, and colorful plant-based dishes.
-Autumn: a warm solarpunk autumn afternoon inside an organic, wood-arched seed library. The three friends are now parents with children who gather around a circular table, joyfully exploring seeds in open trays while interacting with a tablet.
-Winter: A serene solarpunk winter night in a snow-covered eco-village. A multi-generational group consisting of the three friends and their descendants sit in a cozy semicircle around a glowing, circular geothermal fire table with animated concentric light patterns.
-Spring again: Regeneration as the three friends are undergoing what appears to be an advanced rejuvenation life extension. The overall tone blends solarpunk aesthetics — technology harmoniously integrated with nature — with a focus on longevity and well-being.
+- Spring: A lush, futuristic eco-city rooftop garden where three tech-optimist children joyfully plant seedlings in tall vertical planters.
+  
+- Summer: A vibrant solarpunk summer afternoon in a lush eco-city. The three friends are now young adults who share a joyful outdoor meal at a wooden table surrounded by greenery, fresh fruit, and colorful plant-based dishes.
+  
+- Autumn: a warm solarpunk autumn afternoon inside an organic, wood-arched seed library. The three friends are now parents with children who gather around a circular table, joyfully exploring seeds in open trays while interacting with a tablet.
+  
+- Winter: A serene solarpunk winter night in a snow-covered eco-village. A multi-generational group consisting of the three friends and their descendants sit in a cozy semicircle around a glowing, circular geothermal fire table with animated concentric light patterns.
+  
+Spring Again: Regeneration as the three friends are undergoing what appears to be an advanced rejuvenation life extension. The overall tone blends solarpunk aesthetics — technology harmoniously integrated with nature — with a focus on longevity and well-being.
 
 ## Tools Used
 - Storyboard: Human ideation
