@@ -2,7 +2,7 @@
 An entry to NS Solarpunk Art Contest, accessible via Vimeo Link: https://vimeo.com/1110196060?share=copy. All project files are collected in this github repository.
 
 ## Description
-This piece of art takes inspiration from Kim Ki-duk’s film “Spring, Summer, Fall, Winter…and Spring” (https://en.wikipedia.org/wiki/Spring,_Summer,_Fall,_Winter..._and_Spring) but with a tech-optimist and solarpunk theme. Instead of displaying a macro solarpunk city, it goes into the micro view to tell the story of three people whose lives progress through the spring, summer, autumn, winter, and regenerative spring of a solarpunk society.
+This piece of art takes inspiration from Kim Ki-duk’s film “Spring, Summer, Fall, Winter…and Spring” (https://en.wikipedia.org/wiki/Spring,_Summer,_Fall,_Winter..._and_Spring) but with a tech-optimist and solarpunk theme. Instead of displaying a macro view of a solarpunk city, it goes into the micro scene view to tell the story of three people whose lives progress through the spring, summer, autumn, winter, and regenerative spring of a solarpunk society.
 
 A holistic artwork image is shown, followed by video segments playing through a solarpunk instrumental tune:
 - Spring: A lush, futuristic eco-city rooftop garden where three tech-optimist children joyfully plant seedlings in tall vertical planters.
