@@ -13,7 +13,7 @@ A holistic artwork image is shown, followed by video segments playing through a 
   
 - Winter: A serene solarpunk winter night in a snow-covered eco-village. A multi-generational group consisting of the three friends and their descendants sit in a cozy semicircle around a glowing, circular geothermal fire table with animated concentric light patterns.
   
-Spring Again: Regeneration as the three friends are undergoing what appears to be an advanced rejuvenation life extension. The overall tone blends solarpunk aesthetics — technology harmoniously integrated with nature — with a focus on longevity and well-being.
+- Spring Again: Regeneration as the three friends are undergoing what appears to be an advanced rejuvenation life extension. The overall tone blends solarpunk aesthetics — technology harmoniously integrated with nature — with a focus on longevity and well-being.
 
 ## Tools Used
 - Storyboard: Human ideation
